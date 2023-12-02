@@ -1,0 +1,20 @@
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\Erkan\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\bin\Debug\Draw.exe
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\bin\Debug\Draw.pdb
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.MainForm.resources
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.exe
+C:\Users\PC\Documents\GitHub\Paint-Project\Course Project\obj\Debug\Draw.pdb
